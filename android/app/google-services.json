@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323239787668",
+    "project_id": "authentication-fd4f2",
+    "storage_bucket": "authentication-fd4f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323239787668:android:4e00a9747d2fa16658c881",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rBlM52EMFdlBtYm67X-punTNQUr43wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
